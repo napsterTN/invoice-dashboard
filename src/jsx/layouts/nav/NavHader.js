@@ -34,7 +34,7 @@ const NavHader = () => {
 					</defs>
 				</svg>
 				<div className="brand-title">
-					<h2 className="">inv<span>ome</span></h2>
+					<h2 className="">inv<span>oice</span></h2>
 					<span className="brand-sub-title">Invoicing Admin</span>					
 				</div>
 			</Fragment>
