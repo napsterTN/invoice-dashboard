@@ -9,7 +9,7 @@ Comes with light & dark theme
 
 ![invoice-dashboard-dark-theme](https://user-images.githubusercontent.com/23432200/189880232-0cd36f1f-dbb2-453f-b44a-cef158735b5f.jpg)
 
-###Command
+### Command
 
 1- npm i
 
